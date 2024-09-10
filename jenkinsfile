@@ -11,7 +11,7 @@ pipeline {
 
                 script {
 
-                    echo 'Nice, Jenkins users!, this 3rd session!'
+                    echo 'Welc, Jenkins users!, this 3rd session!'
 
                 }
 
